@@ -19,5 +19,5 @@ Clicking on the above link opens up the original link.*
 
 ## Future Plan:
 **Real Time Data Collection, Recording User Response and Retraining Model after Every User input.**<br>
-**Plotting Graphs to show which Industry websites are getting visited more often.**
+**Plotting Graphs to show which Industry websites are getting visited more often.**<br>
 **Increasing the Data for more realistic predicitons and real time use.**
