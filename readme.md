@@ -9,7 +9,7 @@ Adding Value in the Text Box
 Prediction would be a lot realistic if we had a bigger data.*
 ## Scenario 2: Education Industry - W3Schools
 ### **Home Page:**
-![W3Home](images\W3Home.png)
+![images\W3Home.png](https://github.com/Dhruv-Chandra/URL-Shortener/blob/main/images/W3Home.png)
 ### **New Page**
 ![W3New](images\W3NewPage.png)
 *Prediction says 0% as the data is small and manually made.
