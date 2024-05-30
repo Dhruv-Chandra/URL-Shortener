@@ -1,7 +1,4 @@
 /venv/
-/models
-/instance
-/data
 /__pycache__
-build_model.ipynb
 PS.txt
+.gitignore
